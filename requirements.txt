@@ -1,0 +1,7 @@
+torch>=1.0.0
+transformers>=4.0.0
+pandas>=1.0.0
+numpy>=1.19.0
+tqdm>=4.50.0
+scikit-learn>=0.23.0
+jieba>=0.42.1
